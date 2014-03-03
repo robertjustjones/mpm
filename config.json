@@ -6,10 +6,9 @@
     ],
     "plugins": {
         "kappa": {
-            "vhost": "npm.miketown3.com",
             "paths": [
-                "http://admin:password@localhost:5984/registry/_design/app/_rewrite",
-                "https://registry.npmjs.org/"
+                "http://localhost:5984/registry/"
+                ,"https://registry.npmjs.org/"
             ]
         }
     }
