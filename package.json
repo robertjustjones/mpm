@@ -9,6 +9,6 @@
   "author": "",
   "license": "none",
   "dependencies": {
-    "kappa": "~0.14.0"
+    "kappa": "robertjustjones/kappa.git#log-alt-registry"
   }
 }
