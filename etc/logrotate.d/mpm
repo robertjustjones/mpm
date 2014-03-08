@@ -1,0 +1,8 @@
+/var/log/upstart/mpm.log {
+   compress
+   rotate 1000
+   daily
+   dateext
+   copytruncate
+   missingok
+}
